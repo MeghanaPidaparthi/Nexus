@@ -62,6 +62,8 @@ declare type Account = {
   sharableId: string;
 };
 
+
+
 declare type Transaction = {
   id: string;
   $id: string;
